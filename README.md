@@ -8,5 +8,5 @@ This repository contains Jupyter notebooks and resources for the RISE-MICCAI 202
 |-----|------------|------------------------------------------------------------|
 | 1   | July 14    | Medical Image Preprocessing and Data Handling              |
 | 2   | July 15    | Data Augmentation and Classification Models                |
-| 3   | July 16    | Medical Image Segmentation with MONAI                      |
+| 3   | July 16    | Medical Image Segmentation                                 |
 | 4   | July 17    | Ensembling Models for Medical Imaging Analysis             |
